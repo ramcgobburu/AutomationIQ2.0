@@ -127,19 +127,6 @@ This document provides:
 
 ---
 
-## 💰 Cost Summary
-
-| Phase | Tenants | Monthly Cost | Cost per Tenant/Year |
-|-------|---------|--------------|---------------------|
-| Phase 1 | 10-50 | ~$3,000 | ~$600 |
-| Phase 2 | 50-200 | ~$15,000 | ~$520 |
-| Phase 3 | 200-500 | ~$50,000 | ~$650 |
-| Phase 4 | 500-1000+ | ~$150,000 | ~$1,100 |
-
-**Cost Optimization**: 60-70% savings through resource sharing (elastic pools, reserved instances)
-
----
-
 ## 🔒 Security & Compliance
 
 ### Security
